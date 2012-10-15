@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;		public class JX extends MovieClip	{		public function JX()		{			// constructor code		}	}}
